@@ -15,9 +15,9 @@
     module.exports = {
         data: {
             itemList: [
-                {showDate:true, showTitle:true, date: '2016-12-31', title: '云在青天水在瓶', pictureUrl: 'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1486710002640&di=db1250032cb92c1cb5815ab8327ec235&imgtype=0&src=http%3A%2F%2Fimg5.duitang.com%2Fuploads%2Fitem%2F201601%2F28%2F20160128215939_eH25t.thumb.700_0.jpeg'},
-                {showDate:true, showTitle:true, date: '2017-01-01', title: '你开始用双手掂量生活', pictureUrl: 'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1486709747440&di=87d8334efe39b3bcd1b121a6f79ade55&imgtype=0&src=http%3A%2F%2Fb.hiphotos.baidu.com%2Fzhidao%2Fpic%2Fitem%2Fb812c8fcc3cec3fdc5a01fafd388d43f86942749.jpg'},
-                {showDate:true, showTitle:true, date: '2017-01-02', title: '怎样保存世间的一切？', pictureUrl: 'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1486707347661&di=79b2b1e709ce231d6ad2d769be8c5051&imgtype=0&src=http%3A%2F%2Fimg4q.duitang.com%2Fuploads%2Fitem%2F201406%2F11%2F20140611041659_jjNvG.thumb.700_0.jpeg'}
+                {showDate:clickOdd, showTitle:clickOdd, date: '2016-12-31', title: '云在青天水在瓶', pictureUrl: 'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1486710002640&di=db1250032cb92c1cb5815ab8327ec235&imgtype=0&src=http%3A%2F%2Fimg5.duitang.com%2Fuploads%2Fitem%2F201601%2F28%2F20160128215939_eH25t.thumb.700_0.jpeg'},
+                {showDate:clickOdd, showTitle:clickOdd, date: '2017-01-01', title: '你开始用双手掂量生活', pictureUrl: 'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1486709747440&di=87d8334efe39b3bcd1b121a6f79ade55&imgtype=0&src=http%3A%2F%2Fb.hiphotos.baidu.com%2Fzhidao%2Fpic%2Fitem%2Fb812c8fcc3cec3fdc5a01fafd388d43f86942749.jpg'},
+                {showDate:clickOdd, showTitle:clickOdd, date: '2017-01-02', title: '怎样保存世间的一切？', pictureUrl: 'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1486707347661&di=79b2b1e709ce231d6ad2d769be8c5051&imgtype=0&src=http%3A%2F%2Fimg4q.duitang.com%2Fuploads%2Fitem%2F201406%2F11%2F20140611041659_jjNvG.thumb.700_0.jpeg'}
             ]
         },
         methods: {
